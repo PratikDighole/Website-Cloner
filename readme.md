@@ -1,4 +1,4 @@
-#### Usage
+#### amazing Usage 
 `python3 app.py http://example.com yourSite.com`
 this will create a dir at *../app.py*
 
